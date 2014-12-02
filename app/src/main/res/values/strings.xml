@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SiGALLERY</string>
+    <string name="reset">Reset</string>
+    <string name="text_ok">Ok</string>
+    <string name="no_internet_connection">Нет интернета, поэтому придется смотреть на эти картинки</string>
+
+</resources>
